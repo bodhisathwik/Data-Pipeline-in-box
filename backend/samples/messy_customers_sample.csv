@@ -1,0 +1,21 @@
+Customer Name, Sign-Up Date ,Monthly Revenue,Region,Plan Type,IsActive,Support Tickets
+Ada Lovelace,2025-01-01,$1200,North,Pro,true,1
+Grace Hopper,2025-02-14,$2400,SOUTH,Enterprise,yes,0
+Alan Turing,2025-03-20,,East,Free,no,2
+ Katherine Johnson ,2025-04-12,N/A,West,enterprise,FALSE,
+Linus Torvalds,2025-05-18,$5500,north ,pro,true,3
+Barbara Liskov,2025-06-22,$3100,SOUTH,Pro,yes,0
+Jean Bartik,2025-07-09,$900,East,n/a,,5
+Ken Thompson,2025-08-30,$4200,West,Enterprise,true,1
+Ada Lovelace,2025-01-01,$1200,North,Pro,true,1
+Grace Hopper,2025-02-14,$2400,SOUTH,Enterprise,yes,0
+Margaret Hamilton,2025-09-15,$6200,North,Enterprise,true,0
+Claude Shannon,2025-10-04,$1800,East,Pro,false,2
+Tim Berners-Lee,2025-11-21,$4900,West,Pro,yes,4
+Donald Knuth,2025-12-05,,North,Free,false,
+Edsger Dijkstra,2025-01-18,$3800,SOUTH,Pro,true,1
+John von Neumann,2025-02-28,$7500,East,Enterprise,yes,0
+Alan Turing,2025-03-20,,East,Free,no,2
+Linus Torvalds,2025-05-18,$5500,north ,pro,true,3
+Dennis Ritchie,2025-04-05,$5100,West,Enterprise,true,2
+Radia Perlman,2025-05-11,$2900,North,Pro,yes,1
